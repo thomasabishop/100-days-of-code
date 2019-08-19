@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 19, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I began 100D0C
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I'm feeling good. Today, I planned what I want to focus on in the coming month and have started quickly refamialiarising with JS syntax. Tomorrow I will do practise exercises. 
+
+**Link to work:** None yet
 
