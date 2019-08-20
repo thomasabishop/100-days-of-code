@@ -16,4 +16,4 @@
 
 **Thoughts:** Impatience. Want to get up and running on projects sooner
 
-**Link to work:**  (refamiliarisation)[https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_02/refamiliarisation.js]
+**Link to work:**  [refamiliarisation.js](https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_02/refamiliarisation.js)
