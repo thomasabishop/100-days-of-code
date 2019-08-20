@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 19, 2019 
+### Day 1: August 19, 2019 
 
 
 **Today's Progress**: I began 100D0C
@@ -9,3 +9,11 @@
 
 **Link to work:** None yet
 
+### Day 2: August 20, 2019 
+
+
+**Today's Progress**: I revised basic JS syntax with examples.
+
+**Thoughts:** Impatience. Want to get up and running on projects sooner
+
+**Link to work:**  (refamiliarisation.js)[100-days-of-code/wk_01/day_02(02)/refamiliarisation.js]

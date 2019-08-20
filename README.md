@@ -12,7 +12,7 @@ Hi, this is my repository for 100 Days of Code.
 ## Learn more
 
 * You can read more about my goals and strategy in [this](https://thomas-bishop.co.uk/blog/news/one-hundred-days-of-code) post.
-* You can view my daily Instagram updates [here](https://www.instagram.com/tbishop_dev/)
+* You can view my daily Instagram updates [here](https://www.instagram.com/tbishop_dev/) 
 * If you're really keen, you can check my [blog](https://thomas-bishop.co.uk/blog/) for monthly updates.
 
 Thanks for your interest,
