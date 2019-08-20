@@ -14,6 +14,6 @@
 
 **Today's Progress**: I revised basic JS syntax with examples.
 
-**Thoughts:** Impatience. Want to get up and running on projects sooner
+**Thoughts:** Impatience. Want to get up and running on projects sooner.
 
 **Link to work:**  [refamiliarisation.js](https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_02/refamiliarisation.js)
