@@ -19,12 +19,19 @@ Thanks for your interest,
 
 Thomas :)
 
+## Resources
+
+Below are listed the main learning resources I am using
+ 
+### Vanilla JS
+* _Eloquent JavaScript_ 2nd. Edition, Haverbeke
+* _You Don't Know JS: Up & Going_, Simpson
+* _JavaScript & jQuery_, Duckett
 
 ## Useful links
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+
 
 

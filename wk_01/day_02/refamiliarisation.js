@@ -95,7 +95,7 @@ switch ( ourNumber ) {
 
 // Loops
 
-// See refamiliarisation.html
+// Using a for loop to create a foreach style process 
 
 let names = ['Thomas', 'Martha', 'John'];
 
