@@ -1,9 +1,9 @@
 # Week One Topics
 
 ## Vanilla JS
-* Refamiliarise with core JS syntax
+* ~~Refamiliarise with core JS syntax~~
 * Further study of DOM manipulation:
-    * Creating new nodes
+    * ~~Creating new nodes~~
     * Styling nodes 
     * Events 
 * Applying above to real components in CodePen

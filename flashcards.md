@@ -33,4 +33,17 @@
 * What does `JSON.parse` do?
     * How would you convert JSON into a JS object literal?
 
-
+## Document object model
+* What does the property `document.anchors` return?
+    * How would you find out the anchor text of every link within a web page?
+* What would the property `document.baseURI` tell you about a webpage?
+    * How would you find out the canonical URL of a webpage?
+* What DOM property can you target to select the entirety of the page body?
+* What DOM property can you use to identify the cookies operative on a webpage?
+    * What would `document.cookie` tell you?
+* What DOM property can you target to select the entirety of the page `<head>`?
+* What does the property `document.images` return?
+    * How would you access all of the images on a webpage? 
+* What property of the DOM can you use to find out when a web page was last changed?
+    * What does the property `document.lastModified` tell you?
+* What does the property `document.referer` tell you?
