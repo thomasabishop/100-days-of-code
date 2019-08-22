@@ -35,4 +35,16 @@
 * [DOM manipulation template](https://codepen.io/thomasabishop/pen/GRKNdmy)
 * [Darkmode toggler](https://codepen.io/thomasabishop/pen/ZEzBrxK)
 
- 
+ ### Day 4: August 22, 2019 
+
+
+**Today's Progress**: 
+* I learned the correct syntax for creating new DOM nodes.
+
+**Supplementary**: 
+* I got distracted by something on my own site today.
+
+
+**Link to work:** 
+* [dom_creating_nodes.html](https://github.com/thomasabishop/100-days-of-code/tree/master/wk_01/day_04)
+
