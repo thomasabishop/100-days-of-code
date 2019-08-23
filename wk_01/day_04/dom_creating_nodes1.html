@@ -1,7 +1,6 @@
 <body>
     <h1>DOM Manipulation: Adding nodes</h1>
-    <section class="textArea">
-
+    <section class="text-area">
     </section>
 </body>
 
@@ -16,13 +15,12 @@ insertPara.textContent = "I'm a child element. My DOM node was created dynamical
 
 // Grab the node we want to add it to
 
-let textArea = document.querySelector("section.textArea");
+let textArea = document.querySelector("section.text-area");
 
 // Insert the P element into the text area node
 
 textArea.appendChild( insertPara );
 
 // textArea.removeChild( insertPara );
-
 
 </script>

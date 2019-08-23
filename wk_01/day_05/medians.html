@@ -1,0 +1,47 @@
+<body>
+<h4>Create a function that for an indertermimately long list of integers, finds the median value. The list is provided to you as an HTML text node.</h4>
+
+<span class="integers"> 3, 5, 8, 19, 1, 456</span>
+
+</body>
+
+<script>
+
+// Here is a comment now comments are written in Iosevka. 
+
+let arrInput1 = [3, 1, 2, 5, 3 ];
+let arrInput2 = [5, 6, 8 , 9];
+let arrInput3 = [7, 9, 101, 13];
+
+function sortNumber(a, b) {
+  return a - b;
+}
+
+function median(integerArr) {
+    if ( Array.isArray( integerArr ) == true ) {
+        if (integerArr.length % 2 == 1 ) {
+            let sorted = integerArr.sort( sortNumber );
+            let x = Math.round((sorted.length/2));
+            let median = x - 1;
+            return integerArr[median];
+        }
+        else {
+            let evenSorted = integerArr.sort( sortNumber );
+            let x = ( evenSorted.length/2 ) - 1;
+            let y = x + 1;
+            let median = ( ( integerArr[x] + integerArr[y] ) / 2 );
+            return median;
+        }
+    }
+    else {
+        console.log( 'Not an array!');
+    }
+}
+
+console.log(median( arrInput2 ) );
+
+</script>
+
+
+
+

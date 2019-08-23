@@ -7,10 +7,10 @@
 * I began 100D0C
 
 
-
+1
 **Link to work:** None yet
 
-### Day 2: August 20, 2019 
+### Day 2: 20 August 2019 
 
 
 **Today's Progress**: 
@@ -20,7 +20,7 @@
 
 **Link to work:**  [refamiliarisation.js](https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_02/refamiliarisation.js)
 
-### Day 3: August 21, 2019 
+### Day 3: 21 August 2019 
 
 
 **Today's Progress**: 
@@ -35,7 +35,7 @@
 * [DOM manipulation template](https://codepen.io/thomasabishop/pen/GRKNdmy)
 * [Darkmode toggler](https://codepen.io/thomasabishop/pen/ZEzBrxK)
 
- ### Day 4: August 22, 2019 
+ ### Day 4: 22 August 2019 
 
 
 **Today's Progress**: 
@@ -48,3 +48,30 @@
 **Link to work:** 
 * [dom_creating_nodes.html](https://github.com/thomasabishop/100-days-of-code/tree/master/wk_01/day_04)
 
+ ### Day 5: 23 August 2019
+
+
+**Today's Progress**: 
+* I solved a practice exercise to calculate the median value for a given array of integers.
+* I continued to practise DOM manipulation: adding nodes and started to learn the styling syntax which is pretty straightforward. Basically `node -> style -> color/fontSize etc`.
+
+**Supplementary**: 
+* I found the median exercise tough because placement is important to calculate this kind of average. How do you define 'the middle of the integer sequence' in JS? On the face of it, this doesn't look like something that can be derived purely mathematically. I found a way by filtering my function into two control flows, depending on whether the total number of integers was odd or even (using modulus to derive a 1 for odd and 0 for even). From this I found a way to find the middle value and then apply this to the array.
+* I found that you cannot use the DOM manipulation method `node.querySelectorAll()` and then expect whatever change you make to apply automatically to all the matches of the query. This is because the method returns the matches as an array. So, once you have made your selection and match, you must then apply the alteration to each element in the array using a `foreach` loop.
+
+
+**Link to work:** 
+* [dom_creating_nodes.html](https://github.com/thomasabishop/100-days-of-code/tree/master/wk_01/day_04)
+
+ ### Day 5: August 22, 2019 
+
+
+**Today's Progress**: 
+* I learned the correct syntax for creating new DOM nodes.
+
+**Supplementary**: 
+* I got distracted by something on my own site today.
+
+
+**Link to work:** 
+* [dom_creating_nodes.html](https://github.com/thomasabishop/100-days-of-code/tree/master/wk_01/day_04)

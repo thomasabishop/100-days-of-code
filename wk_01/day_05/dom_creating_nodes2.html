@@ -1,0 +1,42 @@
+<body>
+    <h2>Test</h2>
+    <h2>Test</h2>
+    <h2>Test</h2>
+    <h2></h2>
+
+    <ul class="html-list">
+
+    </ul>
+
+
+</body>
+
+
+
+<script>
+
+// This script turns all of the H2 nodes to blue. Note, you cannot do it once for all, you must use a foreach list since querySelectorAll generates an array.
+
+var titles = document.querySelectorAll( "h2");
+for ( var i = 0; i <= titles.length; i++ ) {
+    titles[i].style.color = "blue";
+}
+
+
+
+
+const list = document.querySelector( "ul.html-list");
+let listItem = document.createElement( "li" );
+list.appendChild(listItem);
+
+let linkedItem = document.createElement( "a" );
+listItem.appendChild(linkedItem);
+
+
+
+
+</script>
+
+
+
+
