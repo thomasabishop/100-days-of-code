@@ -77,3 +77,28 @@ for ( var i = 0; i <= links.length; i++ ) {
 for ( var i = 0; i <= links.length; i++ ) {
     entry.appendChild( link.setAttribute( "href", links[i] ) );
 }
+
+
+
+function median(integerArr) {
+    if ( Array.isArray( integerArr ) == true ) {
+        if (integerArr.length % 2 == 1 ) {
+            let sorted = integerArr.sort( sortNumber );
+            let x = Math.round((sorted.length/2));
+            let median = x - 1;
+            return integerArr[median];
+        }
+        else {
+            let evenSorted = integerArr.sort( sortNumber );
+            let x = ( evenSorted.length/2 ) - 1;
+            let y = x + 1;
+            let median = ( ( integerArr[x] + integerArr[y] ) / 2 );
+            return median;
+        }
+    }
+    else {
+        console.log( 'Not an array!');
+    }
+}
+
+console.log(median( arrInput2 ) );

@@ -6,8 +6,6 @@
 **Today's Progress**: 
 * I began 100D0C
 
-
-1
 **Link to work:** None yet
 
 ### Day 2: 20 August 2019 
@@ -49,7 +47,7 @@
 * [dom_creating_nodes.html](https://github.com/thomasabishop/100-days-of-code/tree/master/wk_01/day_04)
 
  
- ### Day 5: August 22, 2019 
+ ### Day 5: 22 August, 2019 
 
 
 **Today's Progress**: 
@@ -80,3 +78,16 @@
 * [dom_creating_nodes2.html](https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_05/dom_creating_nodes2.html)
 * [medians.html](https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_05/medians.html)
 * [Change the Comment Font in VS Code](https://stackoverflow.com/a/57633298/11594028)
+
+### Day 7: 24 August 2019 
+
+
+**Today's Progress**: 
+* I updated all columns in my _Built-in properties and methods_ Notion spreadsheet, improving the syntax and including the full technical name for each method.
+* I attempted to refine the medians script. I succeeded but only reduced the code a little bit.
+* I installed Gatsby and started working on vers. 2.0 of my professional site.
+
+
+**Link to work:** 
+* [Built-in methods and properties ](https://www.notion.so/4d03f5d50d7447a3b4f0a6a9e2d9b06d?v=e2e44d94f8214a969291be807520b25d)
+* [thomas-bishop.co.uk.v2](https://github.com/thomasabishop/thomas-bishop.co.uk__v2.0)

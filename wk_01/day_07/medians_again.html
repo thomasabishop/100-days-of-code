@@ -1,0 +1,37 @@
+<script>
+
+let arrInput1 = [3, 1, 2, 5, 3 ];
+let arrInput2 = [5, 6, 8 , 9];
+let arrInput3 = [7, 9, 101, 13];
+
+function sortNumber(a, b) {
+  return a - b;
+}
+
+
+// Total chars minified = 212
+function medianTerser( integerArr ) {
+    if ( Array.isArray( integerArr ) == true ) {
+        let arrSorted = integerArr.sort( sortNumber );
+        if ( arrSorted.length % 2 == 1 ) {
+            let median = ( Math.round( ( arrSorted.length/2 ) ) ) - 1;
+            return integerArr[median];
+        }
+        else {
+            let x = ( arrSorted.length/2 );
+            let y = x - 1;
+            let z = integerArr[x] + integerArr[y];
+            return z / 2;
+        }
+    }
+    else {
+        console.log( 'Entity is not an array! ');
+    }
+}
+
+
+
+
+
+</script>
+
