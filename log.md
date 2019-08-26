@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 19, 2019 
+### Day 1: Monday, 19 August 2019 
 
 
 **Today's Progress**: 
@@ -8,7 +8,7 @@
 
 **Link to work:** None yet
 
-### Day 2: 20 August 2019 
+### Day 2: Tuesday, 20 August 2019 
 
 
 **Today's Progress**: 
@@ -18,7 +18,7 @@
 
 **Link to work:**  [refamiliarisation.js](https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_02/refamiliarisation.js)
 
-### Day 3: 21 August 2019 
+### Day 3: Wednesday, 21 August 2019 
 
 
 **Today's Progress**: 
@@ -33,7 +33,7 @@
 * [DOM manipulation template](https://codepen.io/thomasabishop/pen/GRKNdmy)
 * [Darkmode toggler](https://codepen.io/thomasabishop/pen/ZEzBrxK)
 
- ### Day 4: 22 August 2019 
+ ### Day 4: Thursday, 22 August 2019 
 
 
 **Today's Progress**: 
@@ -47,7 +47,7 @@
 * [dom_creating_nodes.html](https://github.com/thomasabishop/100-days-of-code/tree/master/wk_01/day_04)
 
  
- ### Day 5: 22 August, 2019 
+ ### Day 5: Friday, 23 August 2019 
 
 
 **Today's Progress**: 
@@ -61,7 +61,7 @@
 
 * [dom_creating_nodes.html](https://github.com/thomasabishop/100-days-of-code/tree/master/wk_01/day_04)
 
-### Day 6: 23 August 2019
+### Day 6: Saturday, 24 August 2019
 
 
 **Today's Progress**: 
@@ -79,7 +79,7 @@
 * [medians.html](https://github.com/thomasabishop/100-days-of-code/blob/master/wk_01/day_05/medians.html)
 * [Change the Comment Font in VS Code](https://stackoverflow.com/a/57633298/11594028)
 
-### Day 7: 24 August 2019 
+### Day 7: Sunday, 25 August 2019 
 
 
 **Today's Progress**: 
@@ -91,3 +91,11 @@
 **Link to work:** 
 * [Built-in methods and properties ](https://www.notion.so/4d03f5d50d7447a3b4f0a6a9e2d9b06d?v=e2e44d94f8214a969291be807520b25d)
 * [thomas-bishop.co.uk.v2](https://github.com/thomasabishop/thomas-bishop.co.uk__v2.0)
+
+### Day 8: Monday, 26 August 2019 
+
+
+**Today's Progress**: 
+* I spent the day book-studying with Duckett. I learned about `this` and **constructor syntax** for objects and classes.
+* I worked on my Gatsby.js professional site.
+
