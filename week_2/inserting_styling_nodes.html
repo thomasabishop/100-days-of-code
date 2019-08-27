@@ -1,0 +1,35 @@
+<body>
+
+</body>
+
+<style>
+.red {color: red;};
+.blue {color: blue;};
+.green {color: green};
+.purple {color: purple};
+</style>
+
+<script>
+
+links = [
+    'https://www.github.com',
+    'https://www.google.com',
+    'https://www.csstricks.com',
+    'https://moz.developer-network.com'
+]
+
+
+let output = document.createElement( "div" );
+document.body.appendChild( output );
+
+for ( i = 0; i <= links.length ; i++ ) {
+    let link = document.createElement( "li" );
+    output.appendChild(link).setAttribute('class', 'red');
+    link.textContent = links[i];
+}
+
+
+
+
+</script>
+

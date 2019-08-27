@@ -81,12 +81,10 @@
 
 ### Day 7: Sunday, 25 August 2019 
 
-
 **Today's Progress**: 
 * I updated all columns in my _Built-in properties and methods_ Notion spreadsheet, improving the syntax and including the full technical name for each method.
 * I attempted to refine the medians script. I succeeded but only reduced the code a little bit.
 * I installed Gatsby and started working on vers. 2.0 of my professional site.
-
 
 **Link to work:** 
 * [Built-in methods and properties ](https://www.notion.so/4d03f5d50d7447a3b4f0a6a9e2d9b06d?v=e2e44d94f8214a969291be807520b25d)
@@ -94,8 +92,18 @@
 
 ### Day 8: Monday, 26 August 2019 
 
-
 **Today's Progress**: 
 * I spent the day book-studying with Duckett. I learned about `this` and **constructor syntax** for objects and classes.
 * I worked on my Gatsby.js professional site.
 
+### Day 9: Tuesday, 26 August 2019 
+
+**Today's Progress**: 
+* I started the day with some code exercises. Wasn't very happy with the results.
+* My Gatsby site went live on Netflix
+* I completed my darkmode toggler.
+
+
+**Link to work:** 
+* [thomas-bishop.co.uk](https://www.thomas-bishop.co.uk)
+* [Dark mode toggler](https://codepen.io/thomasabishop/pen/ZEzBrxK)
