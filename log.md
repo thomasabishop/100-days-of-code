@@ -96,14 +96,23 @@
 * I spent the day book-studying with Duckett. I learned about `this` and **constructor syntax** for objects and classes.
 * I worked on my Gatsby.js professional site.
 
-### Day 9: Tuesday, 26 August 2019 
+### Day 9: Tuesday, 27 August 2019 
 
 **Today's Progress**: 
 * I started the day with some code exercises. Wasn't very happy with the results.
 * My Gatsby site went live on Netflix
 * I completed my darkmode toggler.
 
-
 **Link to work:** 
 * [thomas-bishop.co.uk](https://www.thomas-bishop.co.uk)
 * [Dark mode toggler](https://codepen.io/thomasabishop/pen/ZEzBrxK)
+
+### Day 10: Wednesday, 28 August 2019 
+
+**Today's Progress**: 
+* No JS today as I was occupied with redoing my CV and drafting cover letters for jobs. I am using LaTeX to typeset my resume so I managed to link it to 100 Days of Code by setting up LaTeX to run locally in VS Code, not in Overleaf.
+* This also gave me the idea to develop a 'GitHub' style template for LaTeX which could be useful when I want to print written content very clearly with minimal styling.
+
+
+**Link to work:** 
+* [Resume repository](https://github.com/thomasabishop/thomas-resume)
