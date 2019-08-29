@@ -1,0 +1,22 @@
+<script>
+
+let rectangle = {
+    name: 'rectangle',
+    width: 600,
+    height: 400,
+    area: function() { return this.width * this.height; }
+};
+
+// We must rememeber to use () when calling the function as a method
+console.log( rectangle.area() );
+
+var globalWidth = 500; 
+
+let displayWidth = function() {
+    console.log( globalWidth );
+}
+
+console.log( displayWidth() );
+
+
+</script>

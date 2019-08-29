@@ -113,6 +113,13 @@
 * No JS today as I was occupied with redoing my CV and drafting cover letters for jobs. I am using LaTeX to typeset my resume so I managed to link it to 100 Days of Code by setting up LaTeX to run locally in VS Code, not in Overleaf.
 * This also gave me the idea to develop a 'GitHub' style template for LaTeX which could be useful when I want to print written content very clearly with minimal styling.
 
-
 **Link to work:** 
 * [Resume repository](https://github.com/thomasabishop/thomas-resume)
+
+
+### Day 11: Thursday, 28 August 2019 
+
+**Today's Progress**: 
+* Wrote up notes on `this`
+
+
