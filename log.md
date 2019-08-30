@@ -117,9 +117,27 @@
 * [Resume repository](https://github.com/thomasabishop/thomas-resume)
 
 
-### Day 11: Thursday, 28 August 2019 
+### Day 11: Thursday, 29 August 2019 
 
 **Today's Progress**: 
 * Wrote up notes on `this`
 
 
+### Day 12: Friday, 30 August 2019 
+
+**Today's Progress**: 
+* Completed gratuity calculator code challenge in the morning. Now I have the script I will turn this into a CodePen showcase with a GUI soon.
+* Started writing up Duckett notes.
+* Got a bit waylaid by deliving into Iffy's but it was educative. See below...
+* Created comparisons for the different types of function.
+
+**Specific learnings**:
+* You can group related functions into one and use an array to distinguish the calls. See [prism.js](week_2/prism.js)
+* You can use both anonymous functions and immediately-invoked functions as methods in objects.
+* Whilst iffy's are immediately invoked, you can in fact hold them in a variable, however, **the variable does not store the function, it stores the value it generates**.
+
+
+**Links to work:** 
+* [prism.js](week_2/prism.js)
+* [gratuity.js](week_2/gratuity.js)
+* [function_expressions.js](week_2/function_exprsessions)
