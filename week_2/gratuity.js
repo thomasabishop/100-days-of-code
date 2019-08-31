@@ -23,3 +23,4 @@ function gratuityCalc( cost, ratingInput, dinersInput ) {
 console.log(gratuityCalc( totalCost, rating, diners ));
 
 // Rewrite the above but use anonymous functions, not statements
+

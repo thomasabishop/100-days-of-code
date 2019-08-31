@@ -35,7 +35,7 @@ console.log( areaIFFY) ;
 let objectAnon = {
     width: 5,
     height: 5,
-    area: function() { return objectAnon.width * objectAnon.height; }
+    area: function() { return this.width * this.height; }
 };
 
 console.log( objectAnon.area() );
@@ -54,4 +54,3 @@ let objectIffy1 = {
 };
 
 console.log( objectIffy1.area );
-
