@@ -141,3 +141,21 @@
 * [prism.js](week_2/prism.js)
 * [gratuity.js](week_2/gratuity.js)
 * [function_expressions.js](week_2/function_exprsessions)
+
+### Day 13: Saturday, 31 August 2019 
+
+**Today's Progress**: 
+* Started building frontend wrapper for gratuity calculator.
+* Completed writing up Duckett notes.
+
+**Link to work:** 
+* [gratuity_calculator_wip](https://codepen.io/thomasabishop/pen/zYOdRYM)
+
+### Day 14: Sunday, 1 September 2019 
+
+**Today's Progress**: 
+* Reread *Up and Going*, as preparation for starting *Scope and Closures*, made notes on a few things I understand better now.
+* Continued on gratuity calculator.
+
+**Link to work:** 
+* [gratuity_calculator_wip](https://codepen.io/thomasabishop/pen/zYOdRYM)
