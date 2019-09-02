@@ -120,7 +120,7 @@
 ### Day 11: Thursday, 29 August 2019 
 
 **Today's Progress**: 
-* Wrote up notes on `this`
+* Wrote up notes on `this`                                                                                                                              
 
 
 ### Day 12: Friday, 30 August 2019 
@@ -159,3 +159,15 @@
 
 **Link to work:** 
 * [gratuity_calculator_wip](https://codepen.io/thomasabishop/pen/zYOdRYM)
+
+### Day 15: Monday, 2 September 2019 
+
+**Today's Progress**: 
+* Busy with job applications.
+* Completed styling of gratuity calculator; just need to add JS now.
+* Started on another mini-project: getting an image to change shope and proportion based on slider input.
+
+**Link to work:** 
+* [gratuity_calculator_wip](https://codepen.io/thomasabishop/pen/zYOdRYM)
+* [fun_with_sliders_wip](https://codepen.io/thomasabishop/full/jONGmZz)
+
