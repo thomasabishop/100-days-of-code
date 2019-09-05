@@ -171,3 +171,24 @@
 * [gratuity_calculator_wip](https://codepen.io/thomasabishop/pen/zYOdRYM)
 * [fun_with_sliders_wip](https://codepen.io/thomasabishop/full/jONGmZz)
 
+### Day 16: Tuesday, 3 September 2019 
+
+**Today's Progress**: 
+* Completed gratuity calculator.
+* Created a demonstration of JS form handling with a form that outputs the data inputted as plain text into JSON format
+
+**Link to work:** 
+* [Gratuity calculator (complete)](https://codepen.io/thomasabishop/pen/zYOdRYM)
+* [js_form_handling](https://codepen.io/thomasabishop/pen/VwZrpEE)
+
+### Day 17: Wednesday, 4 September 2019 
+**Today's Progress**: 
+* Mainly occupied with preparing for job interview but built a mock-up of the coding dashboard I want to build with Vue for my  site. It uses static JSON data for now and standard JS. I used CSS Grid combined with Flexbox for the layout. Plus Charts.js
+
+**Link to work:** 
+* [Seven Days of Code!](https://codepen.io/thomasabishop/pen/OJLOxrW)
+
+### Day 18: Thursday, 5 September 2019 
+
+**Today's Progress**: 
+* Had job interview today so not much time for coding. Got to share some of my recent pens and it was great to discuss coding with like-minded people who know their stuff!
