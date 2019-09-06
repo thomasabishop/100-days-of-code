@@ -188,7 +188,14 @@
 **Link to work:** 
 * [Seven Days of Code!](https://codepen.io/thomasabishop/pen/OJLOxrW)
 
-### Day 18: Thursday, 5 September 2019 
+### Day 18: Friday, 6 September 2019 
 
 **Today's Progress**: 
-* Had job interview today so not much time for coding. Got to share some of my recent pens and it was great to discuss coding with like-minded people who know their stuff!
+* On a bit of a high from good news about job.
+* I started a small static site called *Flexbox Toolkit* which is to help me real nail-down my use of Flexbox. Also it might help others and lead to some collaboration if it fills a need.
+* Wrote a tiny bit of pointless JS too. 
+
+
+**Link to work:** 
+* [Flexbox Toolkit!](https://github.com/thomasabishop/flexbox-toolkit)
+* [Arrays in objects, objects in arrays](week_3/arrays_in_objects_viceversa.js)
