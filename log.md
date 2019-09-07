@@ -199,3 +199,21 @@
 **Link to work:** 
 * [Flexbox Toolkit!](https://github.com/thomasabishop/flexbox-toolkit)
 * [Arrays in objects, objects in arrays](week_3/arrays_in_objects_viceversa.js)
+
+### Day 19: Saturday, 7 September 2019 
+
+**Today's Progress**: 
+* Worked on the logo to *Flexbox Toolkit*
+* Refined notes on the DOM. Added examples of inline styling via DOM nodes and made a CodePen demo of retrieving layout data about elements from DOM node properties.
+* Set up a local dev environment (for *Flexbox Toolkit*) using Webpack to manage:
+    * Instant reloading
+    * SCSS compilation 
+    * HTML minification
+* I feel good about this as it will serve me well on other projects. I used this [excellent guide](https://hackernoon.com/lets-start-with-webpack-4-91a0f1dba02e) which is straightforward and works without errors.
+* Tomorrow I want to use Webpack to build the 'Operator Mono' webfonts that I am going to use for *Flexbox Toolkit*. I also want to see what other processes (for instance SVG Go compression) I can automate by adding to the  Webpack pipeline.
+
+
+**Link to work:** 
+* [Flexbox Toolkit!](https://github.com/thomasabishop/flexbox-toolkit)
+*[querying_dom_for_layout_data](https://codepen.io/thomasabishop/pen/oNvEjrL)
+
