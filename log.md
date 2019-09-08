@@ -215,5 +215,24 @@
 
 **Link to work:** 
 * [Flexbox Toolkit!](https://github.com/thomasabishop/flexbox-toolkit)
-*[querying_dom_for_layout_data](https://codepen.io/thomasabishop/pen/oNvEjrL)
+* [querying_dom_for_layout_data](https://codepen.io/thomasabishop/pen/oNvEjrL)
 
+### Day 20: Sunday, 8 September 2019 
+
+**Today's Progress**: 
+* Animated the *Flexbox Toolkit* logo.
+* Err, that's it. 
+
+
+
+**Link to work:** 
+* [Flexbox Toolkit logo animation](https://codepen.io/thomasabishop/pen/RwbQLKE?editors=1100)
+
+
+
+
+
+
+
+
+ 
