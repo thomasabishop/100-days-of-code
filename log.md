@@ -223,12 +223,18 @@
 * Animated the *Flexbox Toolkit* logo.
 * Err, that's it. 
 
-
-
 **Link to work:** 
 * [Flexbox Toolkit logo animation](https://codepen.io/thomasabishop/pen/RwbQLKE?editors=1100)
 
+### Day 21: Monday, 9 September 2019 
 
+**Today's Progress**: 
+* Wrote notes on global objects: `String`, `Number`, `Math`
+* Familiarised with UI-Kit, which I need to know for trial day - started building an analytics dashboard.
+
+
+**Link to work:** 
+* [UI Toolkit Experiment](https://github.com/thomasabishop/uikit)
 
 
 
