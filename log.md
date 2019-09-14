@@ -236,6 +236,35 @@
 **Link to work:** 
 * [UI Toolkit Experiment](https://github.com/thomasabishop/uikit)
 
+### Day 22: Tuesday, 10 September 2019 
+
+**Today's Progress**: 
+* Built homepage template (called *Quotient* ) in order to practise UI-Kit. Based on magazine style website. Quite rough and ready and no linked pages but a useful exercise.
+
+**Link to work:** 
+* [Quotient](https://github.com/thomasabishop/quotient)
+
+### Day 23: Wednesday, 11 September 2019 
+
+**Today's Progress**: 
+* Built homepage template (called *Quotient*) in order to practise UI-Kit. Based on magazine style website. Quite rough and ready and no linked pages but a useful exercise.
+
+**Link to work:** 
+* [Quotient](https://github.com/thomasabishop/quotient)
+
+### Day 24: Thursday, 12 September 2019 
+
+**Today's Progress**: 
+* From my activities at the Blueprint trial I am now quite capable of setting up a Node.js and Webpack-based static website. This is something that I will have to do as a matter of routine in my new job.
+* It is very straightforward so long as you clone the Node `settings.json` and `webpack.config.js` and of course have Node installed for the modules that these files refer to. 
+
+### Day 25: Saturday, 14 September 2019 
+
+**Today's Progress**: 
+* Wrote up notes on Node.js and collaborative Git. 
+
+
+
 
 
 
