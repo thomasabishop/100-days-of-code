@@ -244,24 +244,22 @@
 **Link to work:** 
 * [Quotient](https://github.com/thomasabishop/quotient)
 
+
 ### Day 23: Wednesday, 11 September 2019 
-
-**Today's Progress**: 
-* Built homepage template (called *Quotient*) in order to practise UI-Kit. Based on magazine style website. Quite rough and ready and no linked pages but a useful exercise.
-
-**Link to work:** 
-* [Quotient](https://github.com/thomasabishop/quotient)
-
-### Day 24: Thursday, 12 September 2019 
 
 **Today's Progress**: 
 * From my activities at the Blueprint trial I am now quite capable of setting up a Node.js and Webpack-based static website. This is something that I will have to do as a matter of routine in my new job.
 * It is very straightforward so long as you clone the Node `settings.json` and `webpack.config.js` and of course have Node installed for the modules that these files refer to. 
 
-### Day 25: Saturday, 14 September 2019 
+### Day 24: Sunday, 15 September 2019 
 
 **Today's Progress**: 
-* Wrote up notes on Node.js and collaborative Git. 
+* Wrote detailed notes on collaborative Git and the Gitflow collaborative methodology.
+* Started refactoring the FMP SCSS for Blueprint.
+
+**Link to work:** 
+* [Git collaboration](https://www.notion.so/Git-collaboration-6c8288dfc97d4b0393a71bc1674b6d86)
+* [Gitflow](https://www.notion.so/Gitflow-ce5f3708a526403aa3a1aa2fc15b9453) 
 
 
 
