@@ -261,8 +261,12 @@
 * [Git collaboration](https://www.notion.so/Git-collaboration-6c8288dfc97d4b0393a71bc1674b6d86)
 * [Gitflow](https://www.notion.so/Gitflow-ce5f3708a526403aa3a1aa2fc15b9453) 
 
+### Day 25: Monday, 16 September 2019 
 
-
+**Today's Progress**: 
+* Started setting up my intended open source projects using Gitflow.
+* Learned more about useful Webpack plugins 
+* Conceived *Sine Qua Non* as a one-stop Webpack install for static sites
 
 
 
