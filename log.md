@@ -268,8 +268,9 @@
 * Learned more about useful Webpack plugins 
 * Conceived *Sine Qua Non* as a one-stop Webpack install for static sites
 
+### Day 26: Tuesday, 17 September 2019 
 
-
-
+**Today's Progress**: 
+* Continued love affair with Webpack.
 
  
