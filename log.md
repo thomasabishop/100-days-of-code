@@ -274,3 +274,16 @@
 * Continued love affair with Webpack.
 
  
+### Day 27: Wednesday, 18 September 2019 
+
+**Today's Progress**: 
+* Continued working on Sine Qua Non configuration 
+
+### Day 28: Thursday, 19 September 2019 
+
+**Today's Progress**: 
+* Practised methods of the global objects `String`, `Number`, `Math`
+
+**Link to work:** 
+* [Number_methods](week_5/Number_methods.js)
+* [String_methods](week_5/Number_methods.js)
