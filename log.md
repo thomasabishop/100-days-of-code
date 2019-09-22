@@ -287,3 +287,40 @@
 **Link to work:** 
 * [Number_methods](week_5/Number_methods.js)
 * [String_methods](week_5/Number_methods.js)
+
+### Day 29: Friday, 20 September 2019 
+
+**Today's Progress**: 
+* Learned about the `Date` global object and it's various methods.
+* Added 'GitHub Projects' section to professional website, ready to showcase Quotient and Sine Qua Non.  
+
+**Summary of Learning**
+* The trick is to create a variable that stores the current time and then build your data off of that.
+* We create the variable using constructor notation: `var today = new Date();`
+* We can use built-in stringifying methods like `toDateString()` or `toDateString()` or we can build-out our own date from methods like `getFullYear()` or `getMonth()` and then wrap them in `toString()`. For example:
+```
+let hour = today.getHours(); 
+let mins = today.getMinutes();
+
+console.log("The time is " + hour.toString() + ':' + mins.toString() );
+```
+
+**Link to work:** 
+* [Date_object.js](week_5/Date_object.js)
+
+### Day 30: Saturday, 21 September 2019 
+
+**Today's Progress**: 
+* Completed v1.0.0 of _Sine Qua Non_.
+
+**Link to work:** 
+* [Sine Qua Non](https://github.com/thomasabishop/sinequanon)
+
+### Day 31: Sunday, 22 September 2019 
+
+**Today's Progress**: 
+* Various tweaks to professional website
+* Wrote blog summarising the first month of #100DaysofCode.
+
+**Link to work:** 
+* [One Hundred Days of Code: Month One in Review](https://thomas-bishop.co.uk/blog/one-hundred-days-of-code-month-one/)
