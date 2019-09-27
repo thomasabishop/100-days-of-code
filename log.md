@@ -324,3 +324,18 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:** 
 * [One Hundred Days of Code: Month One in Review](https://thomas-bishop.co.uk/blog/one-hundred-days-of-code-month-one/)
+
+### Day 32: Friday, 27 September 2019 
+
+*N.B* Have been very bad this week and missed lots of days. This is because I started my new job and am also ill. I've simply stopped the clock but am hoping to get my consistency back this week.
+
+**Today's Progress**: 
+* Spent a long time playing about with a flexbox layout.
+* I want to master layouts in:
+    * Flexbox alone (pretty much there)
+    * CSS Grid alone 
+    * CSS Grid and flexbox together
+* Tomorrow, add JavaScript to toggle buttons.
+
+**Link to work:** 
+* [Responsive, tiered pure Flexbox layout ](https://codepen.io/thomasabishop/full/XWrQjMQ)
