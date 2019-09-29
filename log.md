@@ -339,3 +339,24 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:** 
 * [Responsive, tiered pure Flexbox layout ](https://codepen.io/thomasabishop/full/XWrQjMQ)
+
+### Day 33: Saturday, 28 September 2019 
+
+**Today's Progress**: 
+
+* Not very well unfortunately and this has slowed me down. But I have been learning Sass on a deeper level today and have finally taken the trouble to learn all possible uses of mixins. I will now use them frequently especially at the config stage of a new project. Going to try and refactor some recent code too.
+* Before looking at Sass I made a proper plan for my #100DaysofCode aims in October. This is mainly related to work technologies or nailing existing skills that I will be expected to use at a more advanced and less verbose level. Feels good to have this set out as it will help me stay on focus if I have to lose days in the next month due to work commitments 
+
+**Link to work:** 
+* [Interim foci (October) ](interim-foci-sept-oct.md)
+
+### Day 34: Sunday, 29 September 2019 
+
+**Today's Progress**: 
+
+* Finally worked out how to flip between git identities easily with SSH. This means I can jump between machines more easily without losing track of my work. Made detailed notes on it too, so I can do again when necessary. I can also log to here from my work machine without conflicts, which is handy because I put my desktop machine away for work days. 
+* Continued learning more advanced uses of SCSS. There are lots of built in functions for colours that will be really helpful when trying to demonstrate states in UI interfaces. 
+* Going to make use of this knowledge when I start building my mini component libraries on CodePen. As long as I declare generic variables like `$primary-colour` and `$accent-colour` at the beginning, I will in theory just be able to feed in a palette of hexcodes and have all the details taken care of.
+
+**Link to work:** 
+* [SCSS experimentation](https://codepen.io/thomasabishop/pen/YzKbVRa)
