@@ -120,9 +120,7 @@
 ### Day 11: Thursday, 29 August 2019 
 
 **Today's Progress**: 
-* Wrote up notes on `this`                                                                                                                              
-
-
+* Wrote up notes on `this`                                                                                                                             
 ### Day 12: Friday, 30 August 2019 
 
 **Today's Progress**: 
@@ -360,3 +358,13 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:** 
 * [SCSS experimentation](https://codepen.io/thomasabishop/pen/YzKbVRa)
+
+### Day 35: Monday, 30 September 2019 
+
+**Today's Progress**: 
+* Continued learning more advanced Sass techniques:
+    * media queries 
+    * conditionals
+    * loops
+    * string interpolation
+* Started optimising the SCSS of a layout I built recently. Really enjoyed it and was able to greatly simplify the styling using the new features I have learned. 
