@@ -368,3 +368,11 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
     * loops
     * string interpolation
 * Started optimising the SCSS of a layout I built recently. Really enjoyed it and was able to greatly simplify the styling using the new features I have learned. 
+
+### Day 36: Tuesday, 01 October 2019 
+
+**Today's Progress**: 
+* Working on lots of niggly tweaks at work today. I built a slanted button though which will have to count as my self-directed coding for today.
+
+**Link to work:** 
+* [slanted_rectangle](https://codepen.io/thomasabishop/pen/OJLeqMa)
