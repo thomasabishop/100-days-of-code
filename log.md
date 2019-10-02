@@ -376,3 +376,9 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:** 
 * [slanted_rectangle](https://codepen.io/thomasabishop/pen/OJLeqMa)
+
+### Day 37: Wednesday, 02 October 2019 
+
+**Today's Progress**: 
+* Wrote more notes on advanced SCSS
+
