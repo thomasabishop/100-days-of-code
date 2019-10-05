@@ -382,3 +382,21 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 **Today's Progress**: 
 * Wrote more notes on advanced SCSS
 
+### Day 38: Friday, 04 October 2019 
+
+**Today's Progress**: 
+* Completed notes on advanced SCSS.
+* Started to build my component library, starting with buttons, using new SCSS techniques.
+
+**Link to work:** 
+* [buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
+
+
+
+### Day 38: Friday, 04 October 2019 
+
+**Today's Progress**: 
+* Started writing up notes on CSS Grid and experimenting with the different properties
+
+**Link to work:** 
+* [css_grid_practise](https://codepen.io/thomasabishop/pen/bGbPjRP)
