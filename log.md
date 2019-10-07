@@ -393,10 +393,30 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 
 
-### Day 38: Friday, 04 October 2019 
+### Day 39: Saturday, 05 October 2019 
 
 **Today's Progress**: 
 * Started writing up notes on CSS Grid and experimenting with the different properties
 
 **Link to work:** 
 * [css_grid_practise](https://codepen.io/thomasabishop/pen/bGbPjRP)
+
+
+### Day 40: Sunday, 06 October 2019 
+
+**Today's Progress**: 
+* Continued working on button components and struggled with the best ways to make the code reusable.
+
+**Link to work:** 
+* [buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
+
+### Day 41: Monday, 07 October 2019 
+
+**Today's Progress**: 
+* Buit a prototype of the hidden navigation I want to use with *Cartomancy*
+* Finished logo design for *Cartomancy* and animated it. Still need to tweak the CSS animation but solid start.
+
+**Link to work:** 
+* [toggled_side_menu](https://codepen.io/thomasabishop/pen/mddyyBG
+)
+* [Ouroboros Eclipse](https://codepen.io/thomasabishop/pen/ExxagmZ)
