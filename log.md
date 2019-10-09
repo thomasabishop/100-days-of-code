@@ -417,6 +417,14 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Finished logo design for *Cartomancy* and animated it. Still need to tweak the CSS animation but solid start.
 
 **Link to work:** 
-* [toggled_side_menu](https://codepen.io/thomasabishop/pen/mddyyBG
-)
+* [toggled_side_menu](https://codepen.io/thomasabishop/pen/mddyyBG)
+* [Ouroboros Eclipse](https://codepen.io/thomasabishop/pen/ExxagmZ)
+
+### Day 42: Wednesday, 09 October 2019 
+
+**Today's Progress**: 
+* Added a button to the _Cartomancy_ pen.
+
+**Link to work:** 
+
 * [Ouroboros Eclipse](https://codepen.io/thomasabishop/pen/ExxagmZ)
