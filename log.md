@@ -428,3 +428,19 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 **Link to work:** 
 
 * [Ouroboros Eclipse](https://codepen.io/thomasabishop/pen/ExxagmZ)
+
+### Day 43: Friday, 11 October 2019 
+
+**Today's Progress**: 
+* Finished notes on CSS Grid. Now feel equipped to use it. 
+* Made great progress on button components. Very happy with it. Think it is a really useful exercise to build common components entirely from scratch in a style that is pleasingly neutral. 
+* Also added JS independently. 
+* Good day in code terms. 
+
+
+**Link to work:** 
+
+* [Grid Experiment](0https://codepen.io/thomasabishop/pen/rNNORpK)
+* [Buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
+
+
