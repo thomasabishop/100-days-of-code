@@ -357,11 +357,13 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Going to make use of this knowledge when I start building my mini component libraries on CodePen. As long as I declare generic variables like `$primary-colour` and `$accent-colour` at the beginning, I will in theory just be able to feed in a palette of hexcodes and have all the details taken care of.
 
 **Link to work:** 
+
 * [SCSS experimentation](https://codepen.io/thomasabishop/pen/YzKbVRa)
 
 ### Day 35: Monday, 30 September 2019 
 
 **Today's Progress**: 
+
 * Continued learning more advanced Sass techniques:
     * media queries 
     * conditionals
@@ -372,6 +374,7 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 ### Day 36: Tuesday, 01 October 2019 
 
 **Today's Progress**: 
+
 * Working on lots of niggly tweaks at work today. I built a slanted button though which will have to count as my self-directed coding for today.
 
 **Link to work:** 
@@ -443,4 +446,35 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * [Grid Experiment](0https://codepen.io/thomasabishop/pen/rNNORpK)
 * [Buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
 
+### Day 44: Saturday, 12 October 2019 
 
+**Today's Progress**: 
+* Set up **Cartomancy** as live project. No code yet. 
+* Almost finished the button components. Just need to add the CSS snippets. Pleased with results.
+**Link to work:** 
+
+
+* [Buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
+* [Cartomancy]()
+
+### Day 45: Sunday, 13 October 2019 
+
+**Today's Progress**: 
+* Set up code highlighting on buttons. Originally thought of using an `.svg` from Carbon but that came out as a mahusive file that didn't render. So I did what I should've done first and used the CDN of a JS highlighter: highlight.js.
+* This rendered the snippets within `<code><pre>...</pre></code>` as highlighted CSS code. But I thought I hit a problem in that the code had to be either rendered as a light or dark theme. I needed it to be light when the sun icon wasn't active and dark when the moon icon wasn't active. That way it would coincide with the light/dark controls. So I worked out how to target the `href` attribute of the highlight.js stylesheet, then used an `if` conditon to set the stylesheet programmatically. 
+* Really pleased. Now need to extract what I have learned from the work into notes and then go on and make more components. 
+
+**Link to work:** 
+
+
+* [Buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
+
+### Day 45: Monday, 14 October 2019 
+
+**Today's Progress**: 
+* Completed buttons component. 
+
+**Link to work:** 
+
+
+* [Buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
