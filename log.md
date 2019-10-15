@@ -478,3 +478,13 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 
 * [Buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
+
+### Day 46: Tuesday, 15 October 2019 
+
+**Today's Progress**: 
+* Started refining the hidden sidebar component.
+
+**Link to work:** 
+
+
+* [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
