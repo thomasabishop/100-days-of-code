@@ -488,3 +488,14 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 
 * [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
+
+### Day 47: Wednesday, 16 October 2019 
+
+**Today's Progress**: 
+* Added button functionality to the single page layout.
+* Made buttons shrink on click and carried over to buttons component
+* Got Spotify terminal app working
+
+**Link to work:** 
+* * [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
+
