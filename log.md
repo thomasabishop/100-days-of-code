@@ -499,3 +499,23 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 **Link to work:** 
 * * [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
 
+### Day 48: Friday, 25 October 2019 
+
+**Today's Progress**: 
+* Decided to take a break from the daily logs this week. I've still been coding but I've been busy with days in the office and so forth.
+* Completed the single page layout with hidden side navigation.
+* Started trying to address the difficulties I have been having with Grid by studying it again. 
+
+**Link to work:** 
+* * [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
+
+### Day 49: Saturday, 26 October 2019 
+
+**Today's Progress**: 
+* Reviewed my previous notes on CSS Grid, improved and added additional notes on topics I have found tricky. 
+* Learnt the shorthands for the major grid properties which will help to make my CSS terser. 
+* Started learning how to actually use grids for graphic design. Once I understand the design principles (the different ratios of column to row etc, how to manage gutters), I can use them to make my CSS better and to actually have a reason for the different layouts I will create with CSS Grid. Once this knowledge is assimilated I will make grid templates in Codepen so that I can quickly fork them in projects. May do the same with *Sine Qua Non*.
+
+**Link to work:** 
+* * [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
+
