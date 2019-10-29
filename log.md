@@ -517,5 +517,22 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Started learning how to actually use grids for graphic design. Once I understand the design principles (the different ratios of column to row etc, how to manage gutters), I can use them to make my CSS better and to actually have a reason for the different layouts I will create with CSS Grid. Once this knowledge is assimilated I will make grid templates in Codepen so that I can quickly fork them in projects. May do the same with *Sine Qua Non*.
 
 **Link to work:** 
-* * [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
+* [Single page layout with hidden side nav](https://codepen.io/thomasabishop/pen/mddyyBG)
 
+### Day 50: Monday, 28 October 2019 
+
+**Today's Progress**: 
+* Finished (definitively) my notes on CSS Grid
+* Started on a *Mr. Robot* themed sorter in order to practicee with [Isotope JS](https://isotope.metafizzy.co/)
+
+**Link to work:**
+* [Mr. Robot Character Matrix](https://codepen.io/thomasabishop/pen/qBBXmRj)
+
+### Day 51: Tuesday, 29 October 2019 
+
+**Today's Progress**: 
+
+* Continued with *Mr. Robot* character matrix.
+
+**Link to work:**
+* [Mr. Robot Character Matrix](https://codepen.io/thomasabishop/pen/qBBXmRj)
