@@ -536,3 +536,21 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:**
 * [Mr. Robot Character Matrix](https://codepen.io/thomasabishop/pen/qBBXmRj)
+
+### Day 52: Wednesday, 30 October 2019 
+
+**Today's Progress**: 
+
+* Continued with *Mr. Robot* character matrix.
+
+**Link to work:**
+* [Mr. Robot Character Matrix](https://codepen.io/thomasabishop/pen/qBBXmRj)
+
+### Day 53: Friday, 1 November 2019 
+
+**Today's Progress**: 
+
+* Worked on building an accordion component.
+
+**Link to work:**
+* [Accordion](https://codepen.io/thomasabishop/pen/a212e442ac416dc79e38cde9af36a3de)
