@@ -563,3 +563,12 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:**
 * [Accordion](https://codepen.io/thomasabishop/pen/a212e442ac416dc79e38cde9af36a3de)
+
+
+### Day 55: Sunday, 04 November 2019 
+
+**Today's Progress**: 
+
+* Wrote blog post summarising the second month of the 100 Days of Code Challenge. Useful to reflect on what I have learned and gained. Also wanted to make some style changes to site but will wait until tomorrow.
+
+
