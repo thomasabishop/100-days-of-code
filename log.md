@@ -565,10 +565,30 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * [Accordion](https://codepen.io/thomasabishop/pen/a212e442ac416dc79e38cde9af36a3de)
 
 
-### Day 55: Sunday, 04 November 2019 
+### Day 55: Sunday, 03 November 2019 
 
 **Today's Progress**: 
 
 * Wrote blog post summarising the second month of the 100 Days of Code Challenge. Useful to reflect on what I have learned and gained. Also wanted to make some style changes to site but will wait until tomorrow.
 
 
+### Day 56: Wednesday, 06 November 2019 
+
+**Today's Progress**: 
+
+* Worked on site in evening.
+
+* In the day teaching myself the foundations of ASP.NET and Umbraco ready for course next week. Work have allowed me to do some self-directed learning which is really great.
+
+
+### Day 57: Thursday, 07 November 2019 
+
+**Today's Progress**: 
+
+* Got lots of hands-on experience of Umbraco today and was able to make several fixes to client's sites.
+* Completed accordion in evening.
+* Started on card components on CodePen.
+
+**Link to work:**
+* [Accordion](https://codepen.io/thomasabishop/pen/a212e442ac416dc79e38cde9af36a3de)
+* [Cards](https://codepen.io/thomasabishop/live/OJJZYoM)
