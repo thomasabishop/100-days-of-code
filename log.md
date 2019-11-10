@@ -592,3 +592,35 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 **Link to work:**
 * [Accordion](https://codepen.io/thomasabishop/pen/a212e442ac416dc79e38cde9af36a3de)
 * [Cards](https://codepen.io/thomasabishop/live/OJJZYoM)
+
+### Day 58: Friday, 08 November 2019 
+
+**Today's Progress**: 
+
+* Created pill-button groups. One single-select, one multi-select. These will form the top-level controls of the Mr Robot charater matrix. With the functionality coming from Isotope. 
+
+**Link to work:**
+* [Pill button group: single select](https://codepen.io/thomasabishop/pen/dyyKZKG)
+* [Pill button group: multi select ](https://codepen.io/thomasabishop/pen/pooKdEa)
+
+
+### Day 59: Saturday, 09 November 2019 
+
+**Today's Progress**: 
+
+* Set-up .NET Core for Mac-based .NET development and to have an environment to practise C# and Razor with. I can't run a dummy Umbraco site because it requires an IIS Windows server but it is still useful to learn the infrastructure and `dotnet` CLI. 
+* Started making some card/callout components on the side.
+
+**Link to work:**
+* [Pill button group: single select](https://codepen.io/thomasabishop/pen/dyyKZKG)
+* [Pill button group: multi select ](https://codepen.io/thomasabishop/pen/pooKdEa)
+
+### Day 60: Sunday, 10 November 2019 
+
+**Today's Progress**: 
+
+* Tidied up the code of Mr Robot Character Matrix.
+* Set-up Isotope and spent a great deal of time trying to get the Isotope grid it align within its container. Then I discovered that that capability (`fitColumns`) requires a separate module. I imported this module's code into the Codepen and it aligned. Next I need to apply the filters and sort functions and also source the images and learn CSS `clip-path`.
+
+**Link to work:**
+* [Mr. Robot Character Matrix](https://codepen.io/thomasabishop/pen/qBBXmRj)
