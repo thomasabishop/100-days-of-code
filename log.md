@@ -610,7 +610,7 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 * Set-up .NET Core for Mac-based .NET development and to have an environment to practise C# and Razor with. I can't run a dummy Umbraco site because it requires an IIS Windows server but it is still useful to learn the infrastructure and `dotnet` CLI. 
 * Started making some card/callout components on the side.
-
+ 
 **Link to work:**
 * [Pill button group: single select](https://codepen.io/thomasabishop/pen/dyyKZKG)
 * [Pill button group: multi select ](https://codepen.io/thomasabishop/pen/pooKdEa)
@@ -624,3 +624,37 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:**
 * [Mr. Robot Character Matrix](https://codepen.io/thomasabishop/pen/qBBXmRj)
+
+### Day 61: Monday, 11 November 2019 
+
+**Today's Progress**: 
+
+* Undertook Umbraco Fundamentals training online.
+
+### Day 62: Tuesday, 12 November 2019 
+
+* Notes on Razor, making comparisons with JavaScript. 
+
+### Day 63: Friday, 15 November 2019 
+
+* Learnt and experimented with the CSS `clip-path` property.
+
+**Link to work:**
+* [Clip path demonstration](https://codepen.io/thomasabishop/pen/jOOQZxJ)
+
+
+### Day 64: Saturday, 16 November 2019 
+
+* Edited and improved Umbraco notes.
+* Continued with outstanding Umbraco topics but got stuck on Template `Sections`
+* Played around with `clip-path` more and made a black metal themed pen of a Petrarch Cross with burning chuch gif.
+
+**Link to work:**
+* [Black metal themed clip-path animation](https://codepen.io/thomasabishop/pen/jOOQZxJ)
+
+
+### Day 65: Sunday, 17 November 2019 
+
+* Notes on Umbraco templating
+* Writing up notes on clip path, having experimented considerably with the CSS property.
+
