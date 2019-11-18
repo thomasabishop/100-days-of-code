@@ -658,3 +658,9 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Notes on Umbraco templating
 * Writing up notes on clip path, having experimented considerably with the CSS property.
 
+### Day 66: Monday, 18 November 2019 
+
+* Continued working through outstanding Umbraco learning detailed in the Nov-Dec foci.
+
+
+
