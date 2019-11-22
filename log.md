@@ -663,4 +663,13 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Continued working through outstanding Umbraco learning detailed in the Nov-Dec foci.
 
 
+### Day 67: Thursday, 21 November 2019 
+
+* Wrote notes on Umbraco cache and directory structure.
+
+
+### Day 68: Friday, 22 November 2019 
+
+* Passed Umbraco certification exam.
+
 
