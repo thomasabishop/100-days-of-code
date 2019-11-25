@@ -443,7 +443,7 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:** 
 
-* [Grid Experiment](0https://codepen.io/thomasabishop/pen/rNNORpK)
+* [Grid Experiment](https://codepen.io/thomasabishop/pen/rNNORpK)
 * [Buttons](https://codepen.io/thomasabishop/pen/JjjjoaZ)
 
 ### Day 44: Saturday, 12 October 2019 
@@ -667,9 +667,26 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 * Wrote notes on Umbraco cache and directory structure.
 
-
 ### Day 68: Friday, 22 November 2019 
 
 * Passed Umbraco certification exam.
+
+
+### Day 70: Saturday, 23 November 2019 
+
+* Separated 'Expertise' graph on my website into 'Languages' (vertical bar) and 'Frameworks & Tools' (horizontal bar).
+* Added certification badges to 'Expertise' section 
+
+**Link to work:**
+* [thomas-bishop.co.uk](https://www.thomas-bishop.co.uk)
+
+### Day 71: Sunday, 24 November 2019 
+* Continued working through Umbraco data structures but stopped as I realised I needed a more formal guide to C# than the scattered web guides so I ordered a code book. Will come back to this once it arrives. 
+* Started researching the prototype basis of JavaScript. This is really helping me understand the adage that everything apart from primitives in JS is an object and also how class-like behaviour can be achieved with it. 
+* Set up _Autopoesis_ as a Gatsby.js site. Going to work through the Gatsby tutorials on a dummy site to learn the ropes. This will help me understand my own site structure better and is a good bridge to eventually engaging with React. Now thinking React is a better bet in terms of career and employability than Vue. 
+
+### Day 72: Monday, 25 November 2019 
+* Completed my notes on JS prototypes. Took things as far as I could without getting bogged-down in complexities that would just confuse me at this point in my knowledge. I think it was a useful foundation that will be helpful when working with C# and languages with proper classes. 
+
 
 
