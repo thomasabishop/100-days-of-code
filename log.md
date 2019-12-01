@@ -689,4 +689,13 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Completed my notes on JS prototypes. Took things as far as I could without getting bogged-down in complexities that would just confuse me at this point in my knowledge. I think it was a useful foundation that will be helpful when working with C# and languages with proper classes. 
 
 
+### Days 73/74: Friday, 29 - Saturday,  30 November 2019 
+
+* Started to learn Vim. Then realised that it works best with QWERTY and that I had totally forgotten the letter placment since I switched to Dvorak. So I've had to refactor and am now learning to touchtype QWERTY. I'm interested in whether my brain can handle it, i.e whether it is cognitively possible to have muscle-reflex memory for two distinct arrangements embodied in the same physical form. We'll see. I really hope so because I don't want to forget Dvorak after all the effort it took to learn it. 
+
+* Decided to continue with learning Gatsby and pleased to notice that it's quite easy and that I'm increasingly seeing the broad function similarities accross languages and frameworks. Also gentle way to familiarise with React which I shall have to learn at some point.
+
+### Day 75 Sunday 1 December 2019
+* Continued with Gatsby notes. Covered using props and linking between pages, then practised with my dummy Gatsby install.
+* Started designing _Autopoesis_ in Sketch 
 
