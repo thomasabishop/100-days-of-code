@@ -699,3 +699,8 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Continued with Gatsby notes. Covered using props and linking between pages, then practised with my dummy Gatsby install.
 * Started designing _Autopoesis_ in Sketch 
 
+### Day 76 Monday 2 December 2019
+* Continued with Gatsby notes. Covered inline styling and started looking into template components. 
+* Began reading C# book
+* Complete post template in Sketch for *Autopoesis*
+
