@@ -704,3 +704,14 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Began reading C# book
 * Complete post template in Sketch for *Autopoesis*
 
+### Day 77: Wednesday 3 December 2019
+* Made a new install of Gatsby and set up a site from scratch without really referring to my notes. I was pleased at the retention and also felt I was learning by doing. I should do more of this. 
+* Learned about Gatsby layout components. Think I am making progress in my understanding of modern JS frameworks. Basically the way to understand the data structure is as a Russian doll or any fractal structure. Everything is made of smaller parts and these parts have the same morphology as the whole. A layout component is just another component but it can be used as a block JSX element that encloses other components. But the data structure of all of them is the same in essence. 
+* Also learned about the `nvm` package by necessity because my version of Node was very outdated. Uploaded process to IG for future reference.
+* Also going to force myself to use the keyboard more. Useful keystrokes I learned tonight: 
+    * VS Switch between VS Code tabs (circular motion): `Cmd + Shift + `[`/`] 
+    * Select to end of line of text: `Shift + < >`
+    * Toggle beginning/end of line : `Command + < >`
+    * Jump between words: `Option + < >`
+    * Toggle web tabs: `Ctrl + Tab`
+    * Toggle apps: `Command + Tab` 
