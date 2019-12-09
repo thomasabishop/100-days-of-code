@@ -718,7 +718,7 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 ### Day 78: Thursday 5 December 2019
 
-*Just further practise of Gatsby. 
+* Just further practise of Gatsby. 
 
 ### Day 79: Friday 6 December 2019 
 
@@ -731,3 +731,19 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 * Continued studying Gatsby.js:
     * Learned how to set up SCSS compilation. Fairly straightforward and did not require the specification of options within `gatsby-config.js`
+
+### Day 81: Sunday 8 December 2019 
+
+* Continued with learning Gatsby plugins but found I was just copying and pasting outdated code when it came to setting up Markdown routing and compilation to HTML. This troubles me as I'm not exactly understanding the principles behind the code I'm implementing. I think a better approach will be to install a blog starter theme from Gatsby and then examine how they have set it up. Then I can try and reverse engineer it and understand what I am doing.
+
+* Practised the Duckett JS I learned yesterday.
+
+* Completed the first **Advent of Code** challenge.
+
+
+### Day 82: Sunday 9 December 2019 
+
+* Started setting up the dummy Umbraco install on BDC's servers (code named *Signify* ) but ran into some trouble with the config file at root. Will try and find time to address this in the week.
+
+* Continued practising the DOM and created a function that outputs a list of `nodeNames` when fed an element. 
+
