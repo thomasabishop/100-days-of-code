@@ -741,9 +741,28 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Completed the first **Advent of Code** challenge.
 
 
-### Day 82: Sunday 9 December 2019 
+### Day 82: Monday 9 December 2019 
 
 * Started setting up the dummy Umbraco install on BDC's servers (code named *Signify* ) but ran into some trouble with the config file at root. Will try and find time to address this in the week.
 
 * Continued practising the DOM and created a function that outputs a list of `nodeNames` when fed an element. 
+
+### Day 83: Tuesday 10 December 2019 
+
+* Familiarised with Gulp 4 and Glen's Gulp boilerplate.
+
+### Day 84: Wednesday 11 December 2019 
+
+* Trying to got MD -> HTML transformation working in Gatsby. Failed
+
+
+### Day 85: Sunday 15 December 2019 
+
+* Got MD -> HTML transformation working in Gatsby by reverse engineering the `gatsby-starter-blog` template.
+
+* Made linked list of essential Gatsby plugins. 
+
+### Day 86: Monday 16 December 2019 
+
+* Completed notes on DOM from Duckett 
 
