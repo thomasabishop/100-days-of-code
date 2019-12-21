@@ -766,3 +766,8 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 * Completed notes on DOM from Duckett 
 
+### Day 87: Saturday 21 December 2019
+
+* Refactored aims for final days of #100DOC
+* Reordered *Advent of Code* directory so that I can use it to practise across years. 
+* Returned to Part Two of *AOC* 20019 Challenge 1. Need to find out how to run a `do while` repeatedly over each result. 
