@@ -771,3 +771,20 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 * Refactored aims for final days of #100DOC
 * Reordered *Advent of Code* directory so that I can use it to practise across years. 
 * Returned to Part Two of *AOC* 20019 Challenge 1. Need to find out how to run a `do while` repeatedly over each result. 
+
+**Link to work:**
+* [Advent of Code (GitHub)](https://github.com/thomasabishop/advent-of-code-2019)
+
+### Day 88: Sunday 22 December 2019
+* Got a bit disheartened at lack of progress on AOC but then decided to look for similar programs/problems and came accross Project Euler which is a maths-based archive of problems. The rudimentary ones match my ability level and are fun to do. Glad I found this. 
+
+**Link to work:**
+* [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
+
+
+### Day 89/90: Monday 23 / Tuesday 24 December 2019
+* Took time to study loops. Feel more confident now -> know how to nest them, run negative decrements and and run `break` and `continue` based on if conditions. 
+* Refamiliarised with Gatsby and learned about the Typography plugin. Need to do a bit more on graphQL then ready to start *Autopoesis* project. 
+
+**Link to work:**
+* [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
