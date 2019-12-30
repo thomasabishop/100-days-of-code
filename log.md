@@ -788,3 +788,19 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:**
 * [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
+
+                
+### Day 91: Sunday 29 December 2019
+* JavaScript consolidation:
+    * Read over recent DOM notes
+    * Then compiled series of DOM manipulation exercises from [teaching-materials.org](https://www.teaching-materials.org/javascript/) and worked through them
+
+**Link to work:**
+* [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
+
+### Day 92: Monday 30 December 2019
+* Continued working through DOM manipulation exercises 
+* Today focused on object manipulation and learned about the `for in` loop type.
+
+**Link to work:**
+* [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
