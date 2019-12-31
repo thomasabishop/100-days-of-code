@@ -804,3 +804,11 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:**
 * [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
+
+### Day 93: Tuesday 31 December 2019
+* Learned how to use React Helmet with Gatsby.
+* Planned build of *Autopoesis*
+* Completed DOM manipulation exercises.
+
+**Link to work:**
+* [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
