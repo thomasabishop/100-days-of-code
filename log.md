@@ -812,3 +812,9 @@ console.log("The time is " + hour.toString() + ':' + mins.toString() );
 
 **Link to work:**
 * [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
+
+### Day 94: Wednesday 1 January 2020
+* Started learning about GraphQL.
+* Know how to make page and component queries.
+* Started famialirisng with GraphiQL.
+
