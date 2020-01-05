@@ -858,7 +858,6 @@ _N.B_ Have been very bad this week and missed lots of days. This is because I st
 
 - [JavaScript Code Challenges](https://github.com/thomasabishop/javascript-code-challenges)
 
-
 ### Day 91: Sunday 29 December 2019
 
 - JavaScript consolidation:
@@ -911,3 +910,7 @@ _N.B_ Have been very bad this week and missed lots of days. This is because I st
   - Whether I _need_ to use the Node debugger (and thus learn a lot more about using Node) or whether I can get by with built-in debugger within VS Code, without Node.
   - Debugging accross platforms, i.e using Chrome Dev Tools as well
   - What the various things mean within the debugging interface.
+
+### Day 97: Sunday 5 January 2020
+
+- Continued on notes on debugging.
