@@ -914,3 +914,9 @@ _N.B_ Have been very bad this week and missed lots of days. This is because I st
 ### Day 97: Sunday 5 January 2020
 
 - Continued on notes on debugging.
+
+### Day 98: Monday 6 January 2020
+
+- Completed notes on debugging
+- Researched how to get Exercism working. No luck but I think that is because it uses ES6 for the `import` and `export` functions it requires. So look into how to transpile within Node and hopefully that will sort it.
+- Read generalised introductions to Node.js as I want to be more skilled here and use Node for most of my development learning and practise.
